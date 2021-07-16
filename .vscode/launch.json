@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MainApplication<bigscreen-echarts>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.zhuoyi.bigscreen.echarts.MainApplication",
+            "projectName": "bigscreen-echarts",
+            "args": ""
+        }
+    ]
+}
